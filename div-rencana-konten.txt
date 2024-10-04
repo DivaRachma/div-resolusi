@@ -3,7 +3,9 @@ RENCANA KONTEN DIV
   -Js
 *web
 *frm
+^vue
 -struktur data
   -PHP
   -Front end
   -back end
+-Python
