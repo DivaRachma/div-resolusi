@@ -7,6 +7,7 @@ RENCANA KONTEN DIV
 ^react
 -struktur data
   -PHP
+^laravel
   -Front end
   -back end
 -Python
