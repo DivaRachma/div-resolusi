@@ -1,6 +1,8 @@
 RENCANA KONTEN DIV
 
   -Js
+*web
+*frm
   -PHP
   -Front end
   -back end
