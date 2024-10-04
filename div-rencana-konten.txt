@@ -4,6 +4,7 @@ RENCANA KONTEN DIV
 *web
 *frm
 ^vue
+^react
 -struktur data
   -PHP
   -Front end
